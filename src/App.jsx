@@ -63,7 +63,7 @@ export default function App() {
 
               {/* Resume download/open */}
               <a
-                href="/resume.pdf"
+                href="/resume-v2.pdf"
                 target="_blank"
                 rel="noreferrer"
                 className="border border-gray-300 px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition"
